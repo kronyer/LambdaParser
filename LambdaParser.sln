@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaParser", "LambdaParser\LambdaParser.csproj", "{757C6C82-05C3-4C0B-BD0E-EB12A136A18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaParserTesting", "LambdaParserTesting\LambdaParserTesting.csproj", "{07C8F5A6-6A9F-4323-BC34-C80B31D73C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757C6C82-05C3-4C0B-BD0E-EB12A136A18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757C6C82-05C3-4C0B-BD0E-EB12A136A18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757C6C82-05C3-4C0B-BD0E-EB12A136A18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757C6C82-05C3-4C0B-BD0E-EB12A136A18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C8F5A6-6A9F-4323-BC34-C80B31D73C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C8F5A6-6A9F-4323-BC34-C80B31D73C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C8F5A6-6A9F-4323-BC34-C80B31D73C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C8F5A6-6A9F-4323-BC34-C80B31D73C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
